@@ -1,5 +1,7 @@
 # API Automation Testing Framework
 
+[![Playwright API Automation Tests](https://github.com/AniruddhaLokare/Ani-API-Automation-Lab/actions/workflows/api-tests.yml/badge.svg?branch=main)](https://github.com/AniruddhaLokare/Ani-API-Automation-Lab/actions/workflows/api-tests.yml)
+
 A modular API automation testing framework developed using **Playwright and TypeScript** to validate RESTful API functionality, authentication, CRUD operations, and negative scenarios.
 
 The framework uses the public [Restful Booker API](https://restful-booker.herokuapp.com/) as the application under test.
