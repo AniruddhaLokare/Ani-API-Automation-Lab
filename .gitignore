@@ -1,0 +1,22 @@
+
+# Dependencies
+node_modules/
+
+# Playwright reports
+playwright-report/
+test-results/
+blob-report/
+
+# Environment variables
+.env
+.env.*
+
+# Keep example environment file
+!.env.example
+
+# Logs
+*.log
+
+# OS and editor files
+.DS_Store
+.vscode/
